@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Capsule-asn</string>
+    <string name="next_to_notes_tile">NCERT Lines</string>
+    <string name="next_to_notes_desc">Read From NCERT Book</string>
+    <string name="next_to_quiz_tile">Quiz Test</string>
+    <string name="next_to_quiz_desc">Questions</string>
+</resources>
